@@ -1,0 +1,1 @@
+This is a basic Django app created for learning purposes. Serves no other purpose.
